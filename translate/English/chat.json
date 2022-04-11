@@ -1,0 +1,10 @@
+{
+    "inbox":"INBOX",
+    "all":"ALL",
+    "buyers":"BUYERS",
+    "sellers":"SELLERS",
+    "quick_filters":"Quick Filters",
+    "important":"Important",
+    "unread":"Unread",
+    "select_a_chat_to_view_conversation":"Select A Chat To View Conversation"
+}
